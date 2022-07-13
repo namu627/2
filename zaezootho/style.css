@@ -100,4 +100,5 @@ a {
 
 .photo img {
   width: 500px;
+  max-width: 100%;
 }
